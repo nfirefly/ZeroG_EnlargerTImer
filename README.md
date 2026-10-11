@@ -1,12 +1,19 @@
-# ZeroG_EnlargerTImer
-TBD. Prototype timer based upon Arduino UNO.
-Initially Designed for a Durst M605 Color, but Really Generical Approach.
+# ZeroG_EnlargerTimer
 
-All Electronic Based Timer.
-Double 7-Seg. Display.
-Solid State Output.
+> **Status:** TBD. Prototype timer based upon Arduino UNO.
 
-Controls:
-Start/Stop Button.
-Encoder + Button, Dial Time + Change Decade Functionality.
-Focus Button. Switch the Enlarger's Lamp On and Off.
+Initially designed for a **Durst M605 Color**, but a really generic approach.
+
+## Features
+
+- All-electronic timer
+- Double 7-segment display
+- Solid-state output
+
+## Controls
+
+| Control | Function |
+|---|---|
+| **Start/Stop** button | Starts and stops the exposure timer |
+| **Encoder + button** | Dial time, plus change-decade functionality |
+| **Focus** button | Switches the enlarger's lamp on and off |
